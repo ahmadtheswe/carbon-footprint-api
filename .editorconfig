@@ -1,0 +1,4 @@
+# EditorConfig for Go: 2 spaces indentation
+[*.go]
+indent_style = space
+indent_size = 2
