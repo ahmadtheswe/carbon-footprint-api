@@ -1,0 +1,2 @@
+DB_STRING_CONNECTION: "host=localhost user=postgres password=your_password dbname=carbon_footprint_db port=5432 sslmode=disable"
+PORT: "8080"
